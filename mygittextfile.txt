@@ -1,3 +1,2 @@
-hi how are you?
- are you mad?
-crazy?
+Hello,
+Here we are creating our project.
